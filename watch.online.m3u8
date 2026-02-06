@@ -1,0 +1,66 @@
+#EXT-X-ENDLIST
+#EXTINF:-1 tvg-id="channell" tvg-name="Okko" tvg-logo="https://rozetked.me/images/uploads/bXTjUv7mCOiU.jpg",Okko
+https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="setanta1" tvg-name="Сетанта Спорт 1" tvg-logo="https://smotret.tv/images/setanta-sports-1.jpg",Сетанта Спорт 1
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="setanta2" tvg-name="Сетанта Спорт 2" tvg-logo="https://smotret.tv/images/setanta-sports-2.jpg",Сетанта Спорт 2
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv sport" tvg-name="ТВ СПОРТ" tvg-logo="https://operators.virual.1tvch.com/system/pic_folder/channels/logo_images/original/%D0%A1%D0%BF%D0%BE%D1%80%D1%82.png",ТВ СПОРТ
+https://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Реал Мадрид ТВ" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png",Реал Мадрид ТВ
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="Belarus5" tvg-name="Беларусь 5" tvg-logo="https://tvnews.by/uploads/posts/2015-07/1438356682_000025_979520_big.jpg",Беларусь 5
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1021953044_b2660000_sleng.m3u8
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Евроспорт 1" tvg-logo="https://koditv.tv/wp-content/uploads/2024/11/eurosport-1024x538.png",Евроспорт 1
+https://ser3.musical.uz/eurosport1_web/tracks-v1a1/mono.m3u8?remote=81.24.95.40&token=bbe93bc3128e8024aa35a3ea144aaeb25cf5f9cc-647fa62441b9b484a5fefa4c87acf2f5-1770291705-1770280905
+#EXTINF:-1 tvg-id="futbol" tvg-name="Футбол" tvg-logo="https://st.sibnet.ru/upload/cover/video_12386_0.jpg",Футбол
+http://iptv1.r-line.ru/football/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
