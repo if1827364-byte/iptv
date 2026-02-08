@@ -13,8 +13,9 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1021953044_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Евроспорт 1" tvg-logo="https://koditv.tv/wp-content/uploads/2024/11/eurosport-1024x538.png",Евроспорт 1
 https://ser3.musical.uz/eurosport1_web/tracks-v1a1/mono.m3u8?remote=81.24.95.40&token=bbe93bc3128e8024aa35a3ea144aaeb25cf5f9cc-647fa62441b9b484a5fefa4c87acf2f5-1770291705-1770280905
-#EXTINF:-1 tvg-id="futbol" tvg-name="Футбол" tvg-logo="https://st.sibnet.ru/upload/cover/video_12386_0.jpg",Футбол
+#EXTINF:-1 tvg-id="futbol" tvg-name="Футбол" tvg-logo="https://cdn.ruwiki.ru/ruwiki/files/2/2f/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BBHD.jpg",Футбол
 https://live.teleradiocom.tj/8/3m.m3u8
+
 
 
 
