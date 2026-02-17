@@ -15,9 +15,8 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1021953
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Евроспорт 1" tvg-logo="https://koditv.tv/wp-content/uploads/2024/11/eurosport-1024x538.png",Евроспорт 1
 https://ser3.musical.uz/eurosport1_web/tracks-v1a1/mono.m3u8?remote=81.24.95.40&token=bbe93bc3128e8024aa35a3ea144aaeb25cf5f9cc-647fa62441b9b484a5fefa4c87acf2f5-1770291705-1770280905
-
-
-
+#EXTINF:-1 tvg-id="QAZSPORT" tvg-name="QAZSPORT" tvg-logo="https://rtrk.kz/img/noimg.jpg",QAZSPORT
+https://edge01-alm.beetv.kz/bpk-token/3an@riddawkpnmay054ukwr1iggamne0yaqvrychalaa/bpk-tv/000003038/tve/000003038-audio_82882_rus=82400-video=5287600.m3u8
 
 
 
