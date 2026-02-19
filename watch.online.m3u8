@@ -23,119 +23,40 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 
 
+# ============ 📁 МОИ ПАПКИ ============
 
-# ============ 🇷🇺 РОССИЙСКИЕ КАНАЛЫ ============
-#EXTINF:-1 tvq-id="1tv" tvq-name="Первый канал" tvq-logo="https://cdn.tvnews.org.ua/2018/09/1tv.png" group-title="РОССИЯ",Первый канал
-https://example.com/1tv.m3u8
+# 📁 ПАПКА: ФИЛЬМЫ (нажимаешь сюда - открываются фильмы ниже)
+#EXTINF:-1 tvq-id="folder_movies" tvq-name="📁 ФИЛЬМЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 ФИЛЬМЫ
 
-#EXTINF:-1 tvq-id="russia1" tvq-name="Россия 1" tvq-logo="https://cdn.tvnews.org.ua/2018/09/russia1.png" group-title="РОССИЯ",Россия 1
-https://example.com/russia1.m3u8
+# 🎬 Фильмы внутри папки ФИЛЬМЫ
+#EXTINF:-1 tvq-id="movie_1" tvq-name="🎬 Матрица" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Матрица
+#EXTINF:-1 tvq-id="movie_2" tvq-name="🎬 Аватар" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Аватар
+#EXTINF:-1 tvq-id="movie_3" tvq-name="🎬 Титаник" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Титаник
+#EXTINF:-1 tvq-id="movie_4" tvq-name="🎬 1+1" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",1+1
+#EXTINF:-1 tvq-id="movie_5" tvq-name="🎬 Интерстеллар" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Интерстеллар
+#EXTINF:-1 tvq-id="movie_6" tvq-name="🎬 Зеленая миля" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Зеленая миля
+#EXTINF:-1 tvq-id="movie_7" tvq-name="🎬 Форрест Гамп" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Форрест Гамп
+#EXTINF:-1 tvq-id="movie_8" tvq-name="🎬 Брат" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Брат
+#EXTINF:-1 tvq-id="movie_9" tvq-name="🎬 Брат 2" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Брат 2
+#EXTINF:-1 tvq-id="movie_10" tvq-name="🎬 Джентельмены" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Джентельмены
 
-#EXTINF:-1 tvq-id="ntv" tvq-name="НТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/ntv.png" group-title="РОССИЯ",НТВ
-https://example.com/ntv.m3u8
+# ============ 📁 ЕЩЕ ПАПКИ ============
 
-#EXTINF:-1 tvq-id="tnt" tvq-name="ТНТ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/tnt.png" group-title="РОССИЯ",ТНТ
-https://example.com/tnt.m3u8
+# 📁 ПАПКА: СЕРИАЛЫ
+#EXTINF:-1 tvq-id="folder_series" tvq-name="📁 СЕРИАЛЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 СЕРИАЛЫ
 
-#EXTINF:-1 tvq-id="sts" tvq-name="СТС" tvq-logo="https://cdn.tvnews.org.ua/2018/09/sts.png" group-title="РОССИЯ",СТС
-https://example.com/sts.m3u8
+# 📺 Сериалы внутри папки СЕРИАЛЫ
+#EXTINF:-1 tvq-id="series_1" tvq-name="📺 Игра престолов" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Игра престолов
+#EXTINF:-1 tvq-id="series_2" tvq-name="📺 Во все тяжкие" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Во все тяжкие
+#EXTINF:-1 tvq-id="series_3" tvq-name="📺 Друзья" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Друзья
+#EXTINF:-1 tvq-id="series_4" tvq-name="📺 Шерлок" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Шерлок
+#EXTINF:-1 tvq-id="series_5" tvq-name="📺 Острые козырьки" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Острые козырьки
 
-#EXTINF:-1 tvq-id="ren" tvq-name="Рен ТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/rentv.png" group-title="РОССИЯ",Рен ТВ
-https://example.com/rentv.m3u8
+# 📁 ПАПКА: МУЛЬТФИЛЬМЫ
+#EXTINF:-1 tvq-id="folder_cartoons" tvq-name="📁 МУЛЬТФИЛЬМЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 МУЛЬТФИЛЬМЫ
 
-#EXTINF:-1 tvq-id="5kanal" tvq-name="5 канал" tvq-logo="https://cdn.tvnews.org.ua/2018/09/5kanal.png" group-title="РОССИЯ",5 канал
-https://example.com/5kanal.m3u8
-
-#EXTINF:-1 tvq-id="zvezda" tvq-name="Звезда" tvq-logo="https://cdn.tvnews.org.ua/2018/09/zvezda.png" group-title="РОССИЯ",Звезда
-https://example.com/zvezda.m3u8
-
-# ============ ⚽ СПОРТИВНЫЕ КАНАЛЫ ============
-#EXTINF:-1 tvq-id="match" tvq-name="Матч ТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchtv.png" group-title="СПОРТ",Матч ТВ
-https://example.com/matchtv.m3u8
-
-#EXTINF:-1 tvq-id="matchfootball1" tvq-name="Матч! Футбол 1" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchfootball1.png" group-title="СПОРТ",Матч! Футбол 1
-https://example.com/matchfootball1.m3u8
-
-#EXTINF:-1 tvq-id="matchfootball2" tvq-name="Матч! Футбол 2" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchfootball2.png" group-title="СПОРТ",Матч! Футбол 2
-https://example.com/matchfootball2.m3u8
-
-#EXTINF:-1 tvq-id="matchfighter" tvq-name="Матч! Боец" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchboec.png" group-title="СПОРТ",Матч! Боец
-https://example.com/matchboec.m3u8
-
-#EXTINF:-1 tvq-id="eurosport1" tvq-name="Eurosport 1" tvq-logo="https://cdn.tvnews.org.ua/2018/09/eurosport1.png" group-title="СПОРТ",Eurosport 1
-https://example.com/eurosport1.m3u8
-
-#EXTINF:-1 tvq-id="eurosport2" tvq-name="Eurosport 2" tvq-logo="https://cdn.tvnews.org.ua/2018/09/eurosport2.png" group-title="СПОРТ",Eurosport 2
-https://example.com/eurosport2.m3u8
-
-#EXTINF:-1 tvq-id="setanta" tvq-name="Setanta Sports" tvq-logo="https://cdn.tvnews.org.ua/2018/09/setanta.png" group-title="СПОРТ",Setanta Sports
-https://example.com/setanta.m3u8
-
-# ============ 🎬 РАЗВЛЕКАТЕЛЬНЫЕ ============
-#EXTINF:-1 tvq-id="pyatnica" tvq-name="Пятница" tvq-logo="https://cdn.tvnews.org.ua/2018/09/pyatnica.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Пятница
-https://example.com/pyatnica.m3u8
-
-#EXTINF:-1 tvq-id="domashniy" tvq-name="Домашний" tvq-logo="https://cdn.tvnews.org.ua/2018/09/domashniy.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Домашний
-https://example.com/domashniy.m3u8
-
-#EXTINF:-1 tvq-id="tv3" tvq-name="ТВ3" tvq-logo="https://cdn.tvnews.org.ua/2018/09/tv3.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТВ3
-https://example.com/tv3.m3u8
-
-#EXTINF:-1 tvq-id="che" tvq-name="Че" tvq-logo="https://cdn.tvnews.org.ua/2018/09/che.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Че
-https://example.com/che.m3u8
-
-#EXTINF:-1 tvq-id="muztv" tvq-name="Муз ТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/muztv.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Муз ТВ
-https://example.com/muztv.m3u8
-
-# ============ 📰 НОВОСТНЫЕ ============
-#EXTINF:-1 tvq-id="russia24" tvq-name="Россия 24" tvq-logo="https://cdn.tvnews.org.ua/2018/09/russia24.png" group-title="НОВОСТИ",Россия 24
-https://example.com/russia24.m3u8
-
-#EXTINF:-1 tvq-id="moscow24" tvq-name="Москва 24" tvq-logo="https://cdn.tvnews.org.ua/2018/09/moscow24.png" group-title="НОВОСТИ",Москва 24
-https://example.com/moscow24.m3u8
-
-#EXTINF:-1 tvq-id="life" tvq-name="Life News" tvq-logo="https://cdn.tvnews.org.ua/2018/09/lifenews.png" group-title="НОВОСТИ",Life News
-https://example.com/lifenews.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 🧸 Мультфильмы внутри папки МУЛЬТФИЛЬМЫ
+#EXTINF:-
 
 
 
