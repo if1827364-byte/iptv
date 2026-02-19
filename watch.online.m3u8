@@ -7,16 +7,19 @@ https://edge06-alm.beetv.kz/bpk-token/3an@j11r4fdaoh0xm4h25fplpxd3lg04oupzjnn0wf
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta2" tvg-name="Сетанта Спорт 2" tvg-logo="https://smotret.tv/images/setanta-sports-2.jpg",Сетанта Спорт 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv sport" tvg-name="ТВ СПОРТ" tvg-logo="https://operators.virual.1tvch.com/system/pic_folder/channels/logo_images/original/%D0%A1%D0%BF%D0%BE%D1%80%D1%82.png",ТВ СПОРТ
+https://minsk-cache07t.voka.tv/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-id="QAZSPORT" tvg-name="QAZSPORT" tvg-logo="https://rtrk.kz/img/noimg.jpg",QAZSPORT
 https://edge01-alm.beetv.kz/bpk-token/3an@lbrbzvi1egexcwjmgkqo1cdslzkimioflrqfzica/bpk-tv/000003038/tve/000003038-audio_82882_rus=82400-video=3712400.m3u8
 #EXTINF:-1 tvg-id="tv sport" tvg-name="ТВ СПОРТ" tvg-logo="https://operators.virual.1tvch.com/system/pic_folder/channels/logo_images/original/%D0%A1%D0%BF%D0%BE%D1%80%D1%82.png",ТВ СПОРТ
-https://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+https://minsk-cache07t.voka.tv/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-id="ШОКИРУЮЩЕЕ HD" tvg-name="ШОКИРУЮЩЕЕ HD" tvg-logo="https://www.cableman.ru/sites/default/files/shokiruyushchee_tv.jpg",ШОКИРУЮЩЕЕ HD
 https://s.pokaz.me/Mu-3txa2bF7W43Z7a5jtIQ/169/1771515131/index.m3u8
 #EXTINF:-1 tvg-id="Кошмар HD" tvg-name="Кошмар HD tvg-logo="https://smotrettv.com/uploads/posts/2024-04/1712853267_1704023709_start-triumph.jpg",Кошмар HD
 https://hls.goodgame.ru/hls/204709.m3u8?expires=1771580711&token=0qXlcgEsVczswjVH46gqgg
 #EXTINF:-1 tvg-id="Страшное HD" tvg-name="Страшное HD" tvg-logo="https://rt-static.rt.ru/sites/default/files/img/wink/kino_1_4.png",Страшное HD
 https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc6178c9
+
 
 
 
