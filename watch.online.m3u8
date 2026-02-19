@@ -24,6 +24,57 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 
 
+# ============ 🎯 НАВИГАЦИЯ ============
+#EXTINF:-1 tvq-id="nav_home" tvq-name="🏠 ГЛАВНАЯ" tvq-logo="" group-title="МЕНЮ",🏠 ГЛАВНАЯ
+#EXTINF:-1 tvq-id="nav_sport" tvq-name="⚽ СПОРТ" tvq-logo="" group-title="МЕНЮ",⚽ СПОРТ
+#EXTINF:-1 tvq-id="nav_cinema" tvq-name="🎬 КИНО" tvq-logo="" group-title="МЕНЮ",🎬 КИНО
+#EXTINF:-1 tvq-id="nav_tv" tvq-name="📺 ВСЕ КАНАЛЫ" tvq-logo="" group-title="МЕНЮ",📺 ВСЕ КАНАЛЫ
+#EXTINF:-1 tvq-id="nav_fav" tvq-name="⭐ ИЗБРАННОЕ" tvq-logo="" group-title="МЕНЮ",⭐ ИЗБРАННОЕ
+#EXTINF:-1 tvq-id="nav_new" tvq-name="🆕 НОВИНКИ" tvq-logo="" group-title="МЕНЮ",🆕 НОВИНКИ
+
+# ============ 🌐 ПОЛЕЗНЫЕ ССЫЛКИ ============
+#EXTINF:-1 tvq-id="link_kp" tvq-name="🎥 КИНОПОИСК" tvq-logo="https://cdn-icons-png.flaticon.com/512/187/187903.png" group-title="СЕРВИСЫ",Кинопоиск
+https://www.kinopoisk.ru
+#EXTINF:-1 tvq-id="link_yt" tvq-name="📺 YouTube" tvq-logo="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" group-title="СЕРВИСЫ",YouTube
+https://www.youtube.com
+#EXTINF:-1 tvq-id="link_tv" tvq-name="📅 ТЕЛЕПРОГРАММА" tvq-logo="https://cdn-icons-png.flaticon.com/512/2088/2088617.png" group-title="СЕРВИСЫ",Телепрограмма
+https://www.tvprogram.ru
+#EXTINF:-1 tvq-id="link_wx" tvq-name="☀️ ПОГОДА" tvq-logo="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" group-title="СЕРВИСЫ",Погода
+https://www.gismeteo.ru
+
+# ============ ⚙️ УПРАВЛЕНИЕ ============
+#EXTINF:-1 tvq-id="control_update" tvq-name="🔄 ОБНОВИТЬ ПЛЕЙЛИСТ" tvq-logo="" group-title="НАСТРОЙКИ",Обновить
+#EXTINF:-1 tvq-id="control_settings" tvq-name="⚙️ НАСТРОЙКИ" tvq-logo="" group-title="НАСТРОЙКИ",Настройки
+#EXTINF:-1 tvq-id="control_back" tvq-name="⬅️ НАЗАД" tvq-logo="" group-title="НАСТРОЙКИ",Назад
+
+# ============ 🔥 ПОПУЛЯРНЫЕ КАТЕГОРИИ ============
+#EXTINF:-1 tvq-id="cat_news" tvq-name="📰 НОВОСТИ" tvq-logo="" group-title="КАТЕГОРИИ",Новости
+#EXTINF:-1 tvq-id="cat_sport" tvq-name="⚽ СПОРТ" tvq-logo="" group-title="КАТЕГОРИИ",Спорт
+#EXTINF:-1 tvq-id="cat_movie" tvq-name="🎬 ФИЛЬМЫ" tvq-logo="" group-title="КАТЕГОРИИ",Фильмы
+#EXTINF:-1 tvq-id="cat_kids" tvq-name="🧸 ДЕТСКИЕ" tvq-logo="" group-title="КАТЕГОРИИ",Детские
+#EXTINF:-1 tvq-id="cat_music" tvq-name="🎵 МУЗЫКА" tvq-logo="" group-title="КАТЕГОРИИ",Музыка
+#EXTINF:-1 tvq-id="cat_edu" tvq-name="📚 ОБРАЗОВАНИЕ" tvq-logo="" group-title="КАТЕГОРИИ",Образование
+
+# ============ 📱 СОЦСЕТИ ============
+#EXTINF:-1 tvq-id="social_tg" tvq-name="✈️ TELEGRAM" tvq-logo="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" group-title="СОЦСЕТИ",Telegram
+https://web.telegram.org
+#EXTINF:-1 tvq-id="social_vk" tvq-name="📘 ВКОНТАКТЕ" tvq-logo="https://cdn-icons-png.flaticon.com/512/145/145813.png" group-title="СОЦСЕТИ",ВКонтакте
+https://vk.com
+#EXTINF:-1 tvq-id="social_ok" tvq-name="📙 ОДНОКЛАССНИКИ" tvq-logo="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" group-title="СОЦСЕТИ",Одноклассники
+https://ok.ru
+
+# ============ 🎮 РАЗВЛЕЧЕНИЯ ============
+#EXTINF:-1 tvq-id="fun_games" tvq-name="🎮 ИГРЫ" tvq-logo="" group-title="РАЗВЛЕЧЕНИЯ",Игры
+https://www.yandex.ru/games
+#EXTINF:-1 tvq-id="fun_casino" tvq-name="🎰 КАЗИНО" tvq-logo="" group-title="РАЗВЛЕЧЕНИЯ",Казино
+#EXTINF:-1 tvq-id="fun_horror" tvq-name="👻 СТРАШНОЕ HD" tvq-logo="" group-title="РАЗВЛЕЧЕНИЯ",Страшно
+
+
+
+
+
+
+
 
 
 
