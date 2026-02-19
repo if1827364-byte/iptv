@@ -27,6 +27,37 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 
 
+#EXT-X-ENDLIST
+
+#EXTINF:-1 tvq-id="channel1" tvq-name="Okko" tvq-logo="https://rozetked.me/images/uploads/bXTjUv7mCOiU.jpg" group-title="Кино и ТВ",Okko
+https://edge-fast.veridoe.tv/53cabcb9-5ef7-11ef-b446-02001718d412 1000027554 HLS/video 10801920 p 0.m3u8
+
+#EXTINF:-1 tvq-id="SETANTA QAZAQSTAN" tvq-name="CeTanta kz" tvq-logo="https://futboltv.az/upload/tv/b_setanta-sport-kz-logo_202411" group-title="Спорт",CeTanta kz
+https://edge06-alm.beetv.kz/bpk-token/3an@j11r4fdahohxm4h25fploxd31g04ou2jnndwfdab/pbk-tv/000002649/tve/000002649-audio 82882 rus=8
+
+#EXTINF:-1 tvq-id="setantal" tvq-name="CeTanta Cnport 1" tvq-logo="https://smotret.tv/images/setanta-sports-1.jpg" group-title="Спорт",CeTanta Cnport 1
+https://stream8.cinema.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvq-id="setantaz" tvq-name="CeTanta Cnport 2" tvq-logo="https://smotret.tv/images/setanta-sports-2.jpg" group-title="Спорт",CeTanta Cnport 2
+https://stream8.cinema.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvq-id="tv sport" tvq-name="TB CNOPT" tvq-logo="https://operators.virtual.itvch.com/system/pic_folder/channels/logo_images/" group-title="Спорт",TB CNOPT
+https://minsk-cache07.voka.tv/live/8112-req offset 28000000-req window 0-5k v5.m3u8
+
+#EXTINF:-1 tvq-id="QAZSPORT" tvq-name="QAZSPORT" tvq-logo="https://rtkr.kz/img/noimg.jpg" group-title="Спорт",QAZSPORT
+https://edge01-alm.beetv.kz/bpk-token/3an@lbrbzvilexecxwjmkgokclds1zkimioflrgfizca/bpk-tv/000003038-audio 82882 rus=8
+
+#EXTINF:-1 tvq-id="tv sport" tvq-name="TB CNOPT" tvq-logo="https://operators.virtual.itvch.com/system/pic_folder/channels/logo_images/" group-title="Спорт",TB CNOPT
+https://minsk-cache07.voka.tv/live/8112-req offset 28000000-req window 0-5k v5.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
