@@ -13,8 +13,9 @@ https://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="Кошмар HD" tvg-name="Кошмар HD"https://smotret.tv/images/koshmar-hd.jpg",Кошмар HD
 https://hls.goodgame.ru/hls/204709.m3u8?expires=1771580711&token=0qXlcgEsVczswjVH46gqgg
-#EXTINF:-1 tvg-id="futbol" tvg-name="Страшное HD" tvg-logo="https://rt-static.rt.ru/sites/default/files/img/wink/kino_1_4.png",Страшное HD
+#EXTINF:-1 tvg-id="Страшное HD" tvg-name="Страшное HD" tvg-logo="https://rt-static.rt.ru/sites/default/files/img/wink/kino_1_4.png",Страшное HD
 https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc6178c9
+
 
 
 
