@@ -22,8 +22,9 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 
 
-# 📁 ФИЛЬМЫ
-#EXTINF:-1 tvq-id="folder_movies" tvq-name="📁 ФИЛЬМЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 ФИЛЬМЫ
+#ФИЛЬМЫ
+#EXTINF:-1 tvq-id="folder_movies" tvq-name="ФИЛЬМЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",ФИЛЬМЫ
+
 
 
 
