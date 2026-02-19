@@ -24,50 +24,78 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 
 
-# ============ 🎯 НАВИГАЦИЯ ============
-#EXTINF:-1 tvq-id="nav_home" tvq-name="🏠 ГЛАВНАЯ" tvq-logo="" group-title="МЕНЮ",🏠 ГЛАВНАЯ
-#EXTINF:-1 tvq-id="nav_sport" tvq-name="⚽ СПОРТ" tvq-logo="" group-title="МЕНЮ",⚽ СПОРТ
-#EXTINF:-1 tvq-id="nav_cinema" tvq-name="🎬 КИНО" tvq-logo="" group-title="МЕНЮ",🎬 КИНО
-#EXTINF:-1 tvq-id="nav_tv" tvq-name="📺 ВСЕ КАНАЛЫ" tvq-logo="" group-title="МЕНЮ",📺 ВСЕ КАНАЛЫ
-#EXTINF:-1 tvq-id="nav_fav" tvq-name="⭐ ИЗБРАННОЕ" tvq-logo="" group-title="МЕНЮ",⭐ ИЗБРАННОЕ
-#EXTINF:-1 tvq-id="nav_new" tvq-name="🆕 НОВИНКИ" tvq-logo="" group-title="МЕНЮ",🆕 НОВИНКИ
+# ============ 🇷🇺 РОССИЙСКИЕ КАНАЛЫ ============
+#EXTINF:-1 tvq-id="1tv" tvq-name="Первый канал" tvq-logo="https://cdn.tvnews.org.ua/2018/09/1tv.png" group-title="РОССИЯ",Первый канал
+https://example.com/1tv.m3u8
 
-# ============ 🌐 ПОЛЕЗНЫЕ ССЫЛКИ ============
-#EXTINF:-1 tvq-id="link_kp" tvq-name="🎥 КИНОПОИСК" tvq-logo="https://cdn-icons-png.flaticon.com/512/187/187903.png" group-title="СЕРВИСЫ",Кинопоиск
-https://www.kinopoisk.ru
-#EXTINF:-1 tvq-id="link_yt" tvq-name="📺 YouTube" tvq-logo="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" group-title="СЕРВИСЫ",YouTube
-https://www.youtube.com
-#EXTINF:-1 tvq-id="link_tv" tvq-name="📅 ТЕЛЕПРОГРАММА" tvq-logo="https://cdn-icons-png.flaticon.com/512/2088/2088617.png" group-title="СЕРВИСЫ",Телепрограмма
-https://www.tvprogram.ru
-#EXTINF:-1 tvq-id="link_wx" tvq-name="☀️ ПОГОДА" tvq-logo="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" group-title="СЕРВИСЫ",Погода
-https://www.gismeteo.ru
+#EXTINF:-1 tvq-id="russia1" tvq-name="Россия 1" tvq-logo="https://cdn.tvnews.org.ua/2018/09/russia1.png" group-title="РОССИЯ",Россия 1
+https://example.com/russia1.m3u8
 
-# ============ ⚙️ УПРАВЛЕНИЕ ============
-#EXTINF:-1 tvq-id="control_update" tvq-name="🔄 ОБНОВИТЬ ПЛЕЙЛИСТ" tvq-logo="" group-title="НАСТРОЙКИ",Обновить
-#EXTINF:-1 tvq-id="control_settings" tvq-name="⚙️ НАСТРОЙКИ" tvq-logo="" group-title="НАСТРОЙКИ",Настройки
-#EXTINF:-1 tvq-id="control_back" tvq-name="⬅️ НАЗАД" tvq-logo="" group-title="НАСТРОЙКИ",Назад
+#EXTINF:-1 tvq-id="ntv" tvq-name="НТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/ntv.png" group-title="РОССИЯ",НТВ
+https://example.com/ntv.m3u8
 
-# ============ 🔥 ПОПУЛЯРНЫЕ КАТЕГОРИИ ============
-#EXTINF:-1 tvq-id="cat_news" tvq-name="📰 НОВОСТИ" tvq-logo="" group-title="КАТЕГОРИИ",Новости
-#EXTINF:-1 tvq-id="cat_sport" tvq-name="⚽ СПОРТ" tvq-logo="" group-title="КАТЕГОРИИ",Спорт
-#EXTINF:-1 tvq-id="cat_movie" tvq-name="🎬 ФИЛЬМЫ" tvq-logo="" group-title="КАТЕГОРИИ",Фильмы
-#EXTINF:-1 tvq-id="cat_kids" tvq-name="🧸 ДЕТСКИЕ" tvq-logo="" group-title="КАТЕГОРИИ",Детские
-#EXTINF:-1 tvq-id="cat_music" tvq-name="🎵 МУЗЫКА" tvq-logo="" group-title="КАТЕГОРИИ",Музыка
-#EXTINF:-1 tvq-id="cat_edu" tvq-name="📚 ОБРАЗОВАНИЕ" tvq-logo="" group-title="КАТЕГОРИИ",Образование
+#EXTINF:-1 tvq-id="tnt" tvq-name="ТНТ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/tnt.png" group-title="РОССИЯ",ТНТ
+https://example.com/tnt.m3u8
 
-# ============ 📱 СОЦСЕТИ ============
-#EXTINF:-1 tvq-id="social_tg" tvq-name="✈️ TELEGRAM" tvq-logo="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" group-title="СОЦСЕТИ",Telegram
-https://web.telegram.org
-#EXTINF:-1 tvq-id="social_vk" tvq-name="📘 ВКОНТАКТЕ" tvq-logo="https://cdn-icons-png.flaticon.com/512/145/145813.png" group-title="СОЦСЕТИ",ВКонтакте
-https://vk.com
-#EXTINF:-1 tvq-id="social_ok" tvq-name="📙 ОДНОКЛАССНИКИ" tvq-logo="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" group-title="СОЦСЕТИ",Одноклассники
-https://ok.ru
+#EXTINF:-1 tvq-id="sts" tvq-name="СТС" tvq-logo="https://cdn.tvnews.org.ua/2018/09/sts.png" group-title="РОССИЯ",СТС
+https://example.com/sts.m3u8
 
-# ============ 🎮 РАЗВЛЕЧЕНИЯ ============
-#EXTINF:-1 tvq-id="fun_games" tvq-name="🎮 ИГРЫ" tvq-logo="" group-title="РАЗВЛЕЧЕНИЯ",Игры
-https://www.yandex.ru/games
-#EXTINF:-1 tvq-id="fun_casino" tvq-name="🎰 КАЗИНО" tvq-logo="" group-title="РАЗВЛЕЧЕНИЯ",Казино
-#EXTINF:-1 tvq-id="fun_horror" tvq-name="👻 СТРАШНОЕ HD" tvq-logo="" group-title="РАЗВЛЕЧЕНИЯ",Страшно
+#EXTINF:-1 tvq-id="ren" tvq-name="Рен ТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/rentv.png" group-title="РОССИЯ",Рен ТВ
+https://example.com/rentv.m3u8
+
+#EXTINF:-1 tvq-id="5kanal" tvq-name="5 канал" tvq-logo="https://cdn.tvnews.org.ua/2018/09/5kanal.png" group-title="РОССИЯ",5 канал
+https://example.com/5kanal.m3u8
+
+#EXTINF:-1 tvq-id="zvezda" tvq-name="Звезда" tvq-logo="https://cdn.tvnews.org.ua/2018/09/zvezda.png" group-title="РОССИЯ",Звезда
+https://example.com/zvezda.m3u8
+
+# ============ ⚽ СПОРТИВНЫЕ КАНАЛЫ ============
+#EXTINF:-1 tvq-id="match" tvq-name="Матч ТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchtv.png" group-title="СПОРТ",Матч ТВ
+https://example.com/matchtv.m3u8
+
+#EXTINF:-1 tvq-id="matchfootball1" tvq-name="Матч! Футбол 1" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchfootball1.png" group-title="СПОРТ",Матч! Футбол 1
+https://example.com/matchfootball1.m3u8
+
+#EXTINF:-1 tvq-id="matchfootball2" tvq-name="Матч! Футбол 2" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchfootball2.png" group-title="СПОРТ",Матч! Футбол 2
+https://example.com/matchfootball2.m3u8
+
+#EXTINF:-1 tvq-id="matchfighter" tvq-name="Матч! Боец" tvq-logo="https://cdn.tvnews.org.ua/2018/09/matchboec.png" group-title="СПОРТ",Матч! Боец
+https://example.com/matchboec.m3u8
+
+#EXTINF:-1 tvq-id="eurosport1" tvq-name="Eurosport 1" tvq-logo="https://cdn.tvnews.org.ua/2018/09/eurosport1.png" group-title="СПОРТ",Eurosport 1
+https://example.com/eurosport1.m3u8
+
+#EXTINF:-1 tvq-id="eurosport2" tvq-name="Eurosport 2" tvq-logo="https://cdn.tvnews.org.ua/2018/09/eurosport2.png" group-title="СПОРТ",Eurosport 2
+https://example.com/eurosport2.m3u8
+
+#EXTINF:-1 tvq-id="setanta" tvq-name="Setanta Sports" tvq-logo="https://cdn.tvnews.org.ua/2018/09/setanta.png" group-title="СПОРТ",Setanta Sports
+https://example.com/setanta.m3u8
+
+# ============ 🎬 РАЗВЛЕКАТЕЛЬНЫЕ ============
+#EXTINF:-1 tvq-id="pyatnica" tvq-name="Пятница" tvq-logo="https://cdn.tvnews.org.ua/2018/09/pyatnica.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Пятница
+https://example.com/pyatnica.m3u8
+
+#EXTINF:-1 tvq-id="domashniy" tvq-name="Домашний" tvq-logo="https://cdn.tvnews.org.ua/2018/09/domashniy.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Домашний
+https://example.com/domashniy.m3u8
+
+#EXTINF:-1 tvq-id="tv3" tvq-name="ТВ3" tvq-logo="https://cdn.tvnews.org.ua/2018/09/tv3.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТВ3
+https://example.com/tv3.m3u8
+
+#EXTINF:-1 tvq-id="che" tvq-name="Че" tvq-logo="https://cdn.tvnews.org.ua/2018/09/che.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Че
+https://example.com/che.m3u8
+
+#EXTINF:-1 tvq-id="muztv" tvq-name="Муз ТВ" tvq-logo="https://cdn.tvnews.org.ua/2018/09/muztv.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Муз ТВ
+https://example.com/muztv.m3u8
+
+# ============ 📰 НОВОСТНЫЕ ============
+#EXTINF:-1 tvq-id="russia24" tvq-name="Россия 24" tvq-logo="https://cdn.tvnews.org.ua/2018/09/russia24.png" group-title="НОВОСТИ",Россия 24
+https://example.com/russia24.m3u8
+
+#EXTINF:-1 tvq-id="moscow24" tvq-name="Москва 24" tvq-logo="https://cdn.tvnews.org.ua/2018/09/moscow24.png" group-title="НОВОСТИ",Москва 24
+https://example.com/moscow24.m3u8
+
+#EXTINF:-1 tvq-id="life" tvq-name="Life News" tvq-logo="https://cdn.tvnews.org.ua/2018/09/lifenews.png" group-title="НОВОСТИ",Life News
+https://example.com/lifenews.
 
 
 
