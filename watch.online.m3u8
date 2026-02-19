@@ -3,7 +3,7 @@
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 tvg-id="setanta1" tvg-name="Сетанта Спорт 1" tvg-logo="https://smotret.tv/images/setanta-sports-1.jpg",Сетанта Спорт 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="setanta2" tvg-name="Сетанта Спорт 2" tvg-logo="https://soski.tv/images/thumbnails/545/82947193.jpg",Сетанта Спорт 2
+#EXTINF:-1 tvg-id="setanta2" tvg-name="Сетанта Спорт 2" tvg-logo="https://smotret.tv/images/setanta-sports-2.jpg",Сетанта Спорт 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="QAZSPORT" tvg-name="QAZSPORT" tvg-logo="https://rtrk.kz/img/noimg.jpg",QAZSPORT
 https://edge01-alm.beetv.kz/bpk-token/3an@lbrbzvi1egexcwjmgkqo1cdslzkimioflrqfzica/bpk-tv/000003038/tve/000003038-audio_82882_rus=82400-video=3712400.m3u8
@@ -15,6 +15,7 @@ https://s.pokaz.me/Mu-3txa2bF7W43Z7a5jtIQ/169/1771515131/index.m3u8
 https://hls.goodgame.ru/hls/204709.m3u8?expires=1771580711&token=0qXlcgEsVczswjVH46gqgg
 #EXTINF:-1 tvg-id="Страшное HD" tvg-name="Страшное HD" tvg-logo="https://rt-static.rt.ru/sites/default/files/img/wink/kino_1_4.png",Страшное HD
 https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc6178c9
+
 
 
 
