@@ -22,46 +22,8 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 
 
-
-# ============ 📁 МОИ ПАПКИ ============
-
-# 📁 ПАПКА: ФИЛЬМЫ (нажимаешь сюда - открываются фильмы ниже)
+# 📁 ФИЛЬМЫ
 #EXTINF:-1 tvq-id="folder_movies" tvq-name="📁 ФИЛЬМЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 ФИЛЬМЫ
-
-# 🎬 Фильмы внутри папки ФИЛЬМЫ
-#EXTINF:-1 tvq-id="movie_1" tvq-name="🎬 Матрица" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Матрица
-#EXTINF:-1 tvq-id="movie_2" tvq-name="🎬 Аватар" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Аватар
-#EXTINF:-1 tvq-id="movie_3" tvq-name="🎬 Титаник" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Титаник
-#EXTINF:-1 tvq-id="movie_4" tvq-name="🎬 1+1" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",1+1
-#EXTINF:-1 tvq-id="movie_5" tvq-name="🎬 Интерстеллар" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Интерстеллар
-#EXTINF:-1 tvq-id="movie_6" tvq-name="🎬 Зеленая миля" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Зеленая миля
-#EXTINF:-1 tvq-id="movie_7" tvq-name="🎬 Форрест Гамп" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Форрест Гамп
-#EXTINF:-1 tvq-id="movie_8" tvq-name="🎬 Брат" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Брат
-#EXTINF:-1 tvq-id="movie_9" tvq-name="🎬 Брат 2" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Брат 2
-#EXTINF:-1 tvq-id="movie_10" tvq-name="🎬 Джентельмены" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="ФИЛЬМЫ",Джентельмены
-
-# ============ 📁 ЕЩЕ ПАПКИ ============
-
-# 📁 ПАПКА: СЕРИАЛЫ
-#EXTINF:-1 tvq-id="folder_series" tvq-name="📁 СЕРИАЛЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 СЕРИАЛЫ
-
-# 📺 Сериалы внутри папки СЕРИАЛЫ
-#EXTINF:-1 tvq-id="series_1" tvq-name="📺 Игра престолов" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Игра престолов
-#EXTINF:-1 tvq-id="series_2" tvq-name="📺 Во все тяжкие" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Во все тяжкие
-#EXTINF:-1 tvq-id="series_3" tvq-name="📺 Друзья" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Друзья
-#EXTINF:-1 tvq-id="series_4" tvq-name="📺 Шерлок" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Шерлок
-#EXTINF:-1 tvq-id="series_5" tvq-name="📺 Острые козырьки" tvq-logo="https://cdn-icons-png.flaticon.com/512/3655/3655578.png" group-title="СЕРИАЛЫ",Острые козырьки
-
-# 📁 ПАПКА: МУЛЬТФИЛЬМЫ
-#EXTINF:-1 tvq-id="folder_cartoons" tvq-name="📁 МУЛЬТФИЛЬМЫ" tvq-logo="https://cdn-icons-png.flaticon.com/512/376/376708.png" group-title="ПАПКИ",📁 МУЛЬТФИЛЬМЫ
-
-# 🧸 Мультфильмы внутри папки МУЛЬТФИЛЬМЫ
-#EXTINF:-
-
-
-
-
-
 
 
 
