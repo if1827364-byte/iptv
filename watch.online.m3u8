@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="channell" tvg-name="Okko" tvg-logo="https://rozetked.me/images/uploads/bXTjUv7mCOiU.jpg",Okko
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 tvg-id="SETANTA QAZAQSTAN" tvg-name="Сетанта kz" tvg-logo="https://futboltv.az/upload/tv/b_setanta-sport-kz-logo_20241103211932.jpg",Сетанта Казахстан
-https://edge06-alm.beetv.kz/bpk-token/3an@pziew2ngbrysxc5jmwdglrimztlgcrfppp4p42ba/bpk-tv/000002649/tve/000002649-audio_82882_rus=82400-video=2137600.m3u8
+https://edge05-alm.beetv.kz/bpk-token/3an@ivvqiuxbwccr4cqxrewitlbrihknfec3iv01auda/bpk-tv/000002649/tve/000002649-audio_82882_rus=82400-video=2137600.m3u8
 #EXTINF:-1 tvg-id="setanta1" tvg-name="Сетанта Спорт 1" tvg-logo="https://smotret.tv/images/setanta-sports-1.jpg",Сетанта Спорт 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta2" tvg-name="Сетанта Спорт 2" tvg-logo="https://smotret.tv/images/setanta-sports-2.jpg",Сетанта Спорт 2
@@ -23,6 +23,7 @@ https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc61
 
 #EXTINF:-1 group-title="Кино",Кинопоиск HD
 http://stream4.m3u8
+
 
 
 
