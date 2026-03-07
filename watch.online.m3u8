@@ -19,12 +19,8 @@ https://s.pokaz.me/NEAVHcs_A--s_6gn9ds9Gw/169/1772916042/index.m3u8
 https://hls.goodgame.ru/hls/204709.m3u8?expires=1771580711&token=0qXlcgEsVczswjVH46gqgg
 #EXTINF:-1 tvg-id="Страшное HD" tvg-name="Страшное HD" tvg-logo="https://rt-static.rt.ru/sites/default/files/img/wink/kino_1_4.png",Страшное HD
 https://s.catcast.tv/content/34816/index.m3u8?token=beac386eb96336ad148469cbbc6178c9
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ЖЕСТЬ ТВ" tvg-name="ЖЕСТЬ ТВ tvg-logo="https://smotret.tv/images/zhest-tv.jpg",ЖЕСТЬ ТВ 
+https://ext-strm-rustw02rtk-01.strm.yandex.net/vh-canvas-converted/vod-content/811450634477681958/dabc51a9-b0d8-47fb-a28c-69e3e091bd01/webm/VP9_426_240_400.webm?vsid=716faaef1743e3bb7c5dd229c9755074b4d495790d09xVASx4132x1772898236&noredir=1&lid=1627
 
 
 
