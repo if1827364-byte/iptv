@@ -3,17 +3,8 @@
 #EXT-X-ENDLIST
 #EXTINF:-1 tvg-id="channell" tvg-name="Okko" tvg-logo="https://rozetked.me/images/uploads/bXTjUv7mCOiU.jpg",Okko
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="setanta1" tvg-name="Сетанта Спорт 1" tvg-logo="https://smotret.tv/images/setanta-sports-1.jpg",Сетанта Спорт 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="setanta2" tvg-name="Сетанта Спорт 2" tvg-logo="https://smotret.tv/images/setanta-sports-2.jpg",Сетанта Спорт 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv sport" tvg-name="ТВ СПОРТ" tvg-logo="https://operators.virual.1tvch.com/system/pic_folder/channels/logo_images/original/%D0%A1%D0%BF%D0%BE%D1%80%D1%82.png",ТВ СПОРТ
-https://minsk-cache07t.voka.tv/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="okko" tvg-name="okko" tvg-logo="https://www.soccer.ru/sites/default/files/news/okko.jpg",okko Спорт
+https://de6.seetv.cc:8443/7338/tracks-v1a1/mono.m3u8?token=7727E661940D68A
 
 
 
